@@ -1,0 +1,7 @@
+name = "InformedPriorBayesianRecordLinkage"
+uuid = "11132204-a999-11e9-0bfd-f719adbd8085"
+authors = ["Brendan McVeigh <mcveigh.brendan@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BayesianRecordLinkage = "d86cd9f4-871a-11e9-246a-331096f119e4"
